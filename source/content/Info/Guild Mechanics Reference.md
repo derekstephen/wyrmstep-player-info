@@ -7,7 +7,7 @@ last_updated: 2026-04-06
 
 # Guild Mechanics Reference
 
-This is your rules reference. All seven custom systems are explained here. When a rule conflict arises between a custom mechanic and standard 2024 D&D rules, the custom mechanic takes precedence.
+This is your rules reference. All custom systems are explained here. When a rule conflict arises between a custom mechanic and standard 2024 D&D rules, the custom mechanic takes precedence.
 
 ---
 
