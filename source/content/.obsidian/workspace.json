@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/Session Flow & Discord Guide.md",
-                "mode": "preview",
+                "file": "Info/Guild Mechanics Reference.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session Flow & Discord Guide"
+              "title": "Guild Mechanics Reference"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3e4f31203ebff98b",
   "lastOpenFiles": [
-    "index.md",
     "Info/Session Flow & Discord Guide.md",
+    "index.md",
     "Info/Progression & Milestones.md",
     "Info/Guild Mechanics Reference.md",
     "Info/Garrison Duty — Task Reference.md",
