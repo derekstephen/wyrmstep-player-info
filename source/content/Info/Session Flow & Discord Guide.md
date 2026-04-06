@@ -63,12 +63,12 @@ Sessions are hosted **bi-weekly on Thursdays**.
 
 If you don't know where to look, this is the order:
 
-1. **#📢┃announcements** — Session dates, level ups, major events. Always check here first.
-2. **#📜┃rules-and-charter** — Guild charter, social contract, mechanic summaries. Read once, refer back.
-3. **#💠┃important-information** — Pinned mechanic reference posts. Your rules lookup.
-4. **#⚔️┃quest-board** — Check every Monday after a session to claim your slot.
-5. **#⚒️┃bastion-activities** — If you're Bench, post your tasks here before session.
-6. **#💬┃campaign-general** — Everything else.
+1. ``#📢┃announcements`` — Session dates, level ups, major events. Always check here first.
+2. ``#📜┃rules-and-charter`` — Guild charter, social contract, mechanic summaries. Read once, refer back.
+3. ``#💠┃important-information`` — Pinned mechanic reference posts. Your rules lookup.
+4. ``#⚔️┃quest-board`` — Check every Monday after a session to claim your slot.
+5. ``#⚒️┃bastion-activities`` — If you're Bench, post your tasks here before session.
+6. ``#💬┃campaign-general`` — Everything else.
 
 ---
 
@@ -78,7 +78,7 @@ If you don't know where to look, this is the order:
 
 | Channel | What It's For |
 |---|---|
-| **#📢┃announcements** | Session dates, level ups, major campaign events. Read-only. |
+| ``#📢┃announcements** | Session dates, level ups, major campaign events. Read-only. |
 | **#📜┃rules-and-charter** | Guild charter, social contract, mechanic summaries. Read-only. |
 | **#💠┃important-information** | Pinned mechanic reference posts — Sundown Protocol, Iron Ledger, Memory Anchor rules. Read-only. |
 | **#🗺️┃resources** | D&D Beyond character links, external tools, shared notes. Read-only. |

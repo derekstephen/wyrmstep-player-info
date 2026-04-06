@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Info/Session Flow & Discord Guide.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session Flow & Discord Guide"
             }
           }
         ]
@@ -180,14 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "3e4f31203ebff98b",
   "lastOpenFiles": [
+    "index.md",
     "Info/Session Flow & Discord Guide.md",
     "Info/Progression & Milestones.md",
     "Info/Guild Mechanics Reference.md",
     "Info/Garrison Duty — Task Reference.md",
     "Info/Campaign Overview.md",
-    "index.md",
     "Info",
     "category-folder/Some note.md",
     "category-folder/index.md",
