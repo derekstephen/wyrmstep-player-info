@@ -17,7 +17,7 @@ The Infinite Staircase — a vast planar structure that connects countless world
 
 *"Because every Door needs one."*
 
-You operate as a guild. Together you are **The Wyrmsteppers**.
+You operate as a guild. Together you are **The Wyrmstep**.
 
 ---
 
@@ -33,7 +33,7 @@ You operate as a guild. Together you are **The Wyrmsteppers**.
 
 ## The Guild Structure
 
-The Wyrmsteppers run on a rotation system. Every session, five Keys go **Active** — through the Door to complete the mission. The remaining Keys stay **Bench** — running the Bastion through Garrison Duty. Neither role is secondary. The active team depends entirely on what the bench team does before the session begins.
+The Wyrmstep run on a rotation system. Every session, five Keys go **Active** — through the Door to complete the mission. The remaining Keys stay **Bench** — running the Bastion through Garrison Duty. Neither role is secondary. The active team depends entirely on what the bench team does before the session begins.
 
 **If you are Active:** You are in the field. You have a hard end time. Get out before it hits.
 
@@ -43,9 +43,9 @@ The Wyrmsteppers run on a rotation system. Every session, five Keys go **Active*
 
 ## Silas & Nafas
 
-**Nafas** is the reason you are here. A being of immense scope and power, Nafas moves through concerns far larger than any single world or mission — the kind of problems that span realities rather than rooms. What he has set in motion with the Wyrmsteppers is important enough to have drawn his attention, which says something. He does not manage the day-to-day. That is what Silas is for.
+**Nafas** is the reason you are here. A being of immense scope and power, Nafas moves through concerns far larger than any single world or mission — the kind of problems that span realities rather than rooms. What he has set in motion with the Wyrmstep is important enough to have drawn his attention, which says something. He does not manage the day-to-day. That is what Silas is for.
 
-**Silas** runs the Bastion. He handles the operational side of everything — the Iron Ledger, the Guild Vault, the Extraction Ritual, the session countdowns, the paperwork of keeping a guild of planar operatives alive and functional. He is precise, dry, and deeply invested in the guild's survival even when he doesn't say so. He calls you Keys. He takes 10% of your gold because the Bastion doesn't run on goodwill. He will retrieve items you forget to return. He has his methods. He's been doing this longer than you know.
+**Silas** runs the Bastion. They handle the operational side of everything — the Iron Ledger, the Guild Vault, the Extraction Ritual, the session countdowns, the paperwork of keeping a guild of planar operatives alive and functional. They are precise, dry, and deeply invested in the guild's survival even when they don't say so. They call you Keys. They take 10% of your gold because the Bastion doesn't run on goodwill. They will retrieve items you forget to return. They have their methods. They've been doing this longer than you know.
 
 ---
 
