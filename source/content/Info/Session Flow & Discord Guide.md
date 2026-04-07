@@ -63,12 +63,12 @@ Sessions are hosted **bi-weekly on Thursdays**.
 
 If you don't know where to look, this is the order:
 
-1. **\#📢┃announcements** — Session dates, level ups, major events. Always check here first.
-2. **\#📜┃rules-and-charter** — Guild charter, social contract, mechanic summaries. Read once, refer back.
-3. **\#💠┃important-information** — Pinned mechanic reference posts. Your rules lookup.
-4. **\#⚔️┃quest-board** — Check every Monday after a session to claim your slot.
-5. **\#⚒️┃bastion-activities** — If you're Bench, post your tasks here before session.
-6. **\#💬┃campaign-general** — Everything else.
+1. **#📢┃announcements** — Session dates, level ups, major events. Always check here first.
+2. **#📜┃rules-and-charter** — Guild charter, social contract, mechanic summaries. Read once, refer back.
+3. **#💠┃important-information** — Pinned mechanic reference posts. Your rules lookup.
+4. **#⚔️┃quest-board** — Check every Monday after a session to claim your slot.
+5. **#⚒️┃bastion-activities** — If you're Bench, post your tasks here before session.
+6. **#💬┃campaign-general** — Everything else.
 
 ---
 
@@ -78,10 +78,10 @@ If you don't know where to look, this is the order:
 
 | Channel | What It's For |
 |---|---|
-| **\#📢┃announcements** | Session dates, level ups, major campaign events. Read-only. |
-| **\#📜┃rules-and-charter** | Guild charter, social contract, mechanic summaries. Read-only. |
-| **\#💠┃important-information** | Pinned mechanic reference posts — Sundown Protocol, Iron Ledger, Memory Anchor rules. Read-only. |
-| **\#🗺️┃resources** | D&D Beyond character links, external tools, shared notes. Read-only. |
+| **#📢┃announcements** | Session dates, level ups, major campaign events. Read-only. |
+| **#📜┃rules-and-charter** | Guild charter, social contract, mechanic summaries. Read-only. |
+| **#💠┃important-information** | Pinned mechanic reference posts — Sundown Protocol, Iron Ledger, Memory Anchor rules. Read-only. |
+| **#🗺️┃resources** | D&D Beyond character links, external tools, shared notes. Read-only. |
 
 ---
 
@@ -91,10 +91,10 @@ If you don't know where to look, this is the order:
 
 | Channel | What It's For |
 |---|---|
-| **\#⚔️┃quest-board** | One thread per session. Silas posts the quest and Active/Bench slots here. Priority window enforced here. Claim your slot. |
-| **\#📖┃mission-reports** | One thread per session. Memory Anchor posts the mission report here within 72 hours. Bench players: read these to stay current. |
-| **\#📋┃key-roster** | Current Active/Bench roster for the upcoming session. Fracture State tracker. |
-| **\#📊┃structural-reports** | Campaign-level updates: Fracture Intensity Meter stage, Bastion upgrades completed, milestone announcements. Read-only. |
+| **#⚔️┃quest-board** | One thread per session. Silas posts the quest and Active/Bench slots here. Priority window enforced here. Claim your slot. |
+| **#📖┃mission-reports** | One thread per session. Memory Anchor posts the mission report here within 72 hours. Bench players: read these to stay current. |
+| **#📋┃key-roster** | Current Active/Bench roster for the upcoming session. Fracture State tracker. |
+| **#📊┃structural-reports** | Campaign-level updates: Fracture Intensity Meter stage, Bastion upgrades completed, milestone announcements. Read-only. |
 
 ---
 
@@ -104,9 +104,9 @@ If you don't know where to look, this is the order:
 
 | Channel | What It's For |
 |---|---|
-| **\#⚒️┃bastion-activities** | One thread per session. Bench players post task selections and Avrae rolls here. Item checkout also happens here. Results visible before session. |
-| **\#🗝️┃guild-vault** | Live Guild Vault inventory and Communal Wallet balance. Updated after each session. |
-| **\#💎┃reliquary** | Cold Storage tracking — artifacts in processing, unlock status, Silas flavor posts. |
+| **#⚒️┃bastion-activities** | One thread per session. Bench players post task selections and Avrae rolls here. Item checkout also happens here. Results visible before session. |
+| **#🗝️┃guild-vault** | Live Guild Vault inventory and Communal Wallet balance. Updated after each session. |
+| **#💎┃reliquary** | Cold Storage tracking — artifacts in processing, unlock status, Silas flavor posts. |
 
 ---
 
@@ -116,9 +116,9 @@ If you don't know where to look, this is the order:
 
 | Channel | What It's For |
 |---|---|
-| **\#🕯️┃downtime-rp** | In-character roleplay between sessions. Bastion common areas, NPC interactions, character moments. |
-| **\#💬┃campaign-general** | Out-of-character campaign chat. Scheduling, questions, general discussion. |
-| **\#🍺┃the-tavern** | Voice channel for sessions and casual hangouts. |
+| **#🕯️┃downtime-rp** | In-character roleplay between sessions. Bastion common areas, NPC interactions, character moments. |
+| **#💬┃campaign-general** | Out-of-character campaign chat. Scheduling, questions, general discussion. |
+| **#🍺┃the-tavern** | Voice channel for sessions and casual hangouts. |
 
 ---
 
@@ -128,15 +128,15 @@ If you don't know where to look, this is the order:
 
 | Channel | What It's For |
 |---|---|
-| **\#🌀┃session-links** | Session recording links, VTT links, shared screen links. One post per session. |
-| **\#🎲┃dice-testing** | Practice Avrae commands here before using them in bastion-activities. |
-| **\#⚙️┃bot-commands** | Reference for bot commands. |
+| **#🌀┃session-links** | Session recording links, VTT links, shared screen links. One post per session. |
+| **#🎲┃dice-testing** | Practice Avrae commands here before using them in bastion-activities. |
+| **#⚙️┃bot-commands** | Reference for bot commands. |
 
 ---
 
 ## Using Avrae for Garrison Duty
 
-Avrae handles your Garrison Duty skill checks. Before your first bench session, practice in **\#🎲┃dice-testing** so you know the commands.
+Avrae handles your Garrison Duty skill checks. Before your first bench session, practice in **#🎲┃dice-testing** so you know the commands.
 
 **Basic roll format:**
 ```
@@ -200,4 +200,4 @@ Repeated no-shows without communication affect the whole group's Bastion through
 
 ---
 
-*Questions? Post in \#💬┃campaign-general.*
+*Questions? Post in #💬┃campaign-general.*

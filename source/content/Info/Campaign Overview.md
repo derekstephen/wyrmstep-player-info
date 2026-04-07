@@ -53,7 +53,7 @@ The Wyrmsteppers run on a rotation system. Every session, five Keys go **Active*
 
 This campaign has **genuine stakes.** Characters can die, get Fractured, and accrue real consequences. The Staircase itself is deteriorating in ways that will become mechanically real over time.
 
-It also has **a lot of players** — nine of you. Spotlight gets crowded. Make space for each other at the table. Decisions ripple across everyone, especially with a shared economy, shared Vault, and a rotation system that means your bench actions directly affect your friends in the field.
+It also has **a lot of players** — ten of you. Spotlight gets crowded. Make space for each other at the table. Decisions ripple across everyone, especially with a shared economy, shared Vault, and a rotation system that means your bench actions directly affect your friends in the field.
 
 **Discord is not optional.** Claiming session slots, posting Garrison Duties, writing the mission report — these happen in Discord between sessions. Engagement there is a real expectation, not a bonus.
 

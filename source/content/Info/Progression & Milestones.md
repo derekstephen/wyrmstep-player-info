@@ -37,7 +37,7 @@ The guild has proven itself. More of the Staircase's systems become responsive â
 Full operational access. The guild has demonstrated enough stability that the Staircase releases the last of its locked task systems. At this rank you have access to everything the guild has earned. Silas treats Vanguard members as genuine partners.
 
 **Sentinel**
-The rank that marks the conclusion of the guild's first major arc. What the Staircase unlocks for Sentinels is something to be discovered when you get there.
+The rank achieved at the close of Tier 1. The guild has transformed from recruited operatives into genuine Staircase stabilization specialists â€” but the work is not done. Sentinel marks the end of the first Door, not the campaign. Tier 2 introduces new rank names and expanded privileges as the guild moves into higher-level arcs. What the Staircase unlocks for Sentinels in the meantime is something to be discovered when you get there.
 
 ---
 
