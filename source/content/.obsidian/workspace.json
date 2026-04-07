@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f8b3e3a07aa106bc",
+        "id": "94dbabd93e13e9b5",
         "type": "tabs",
         "children": [
           {
-            "id": "3e4f31203ebff98b",
+            "id": "c7d456b921734526",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Info/Session Flow & Discord Guide.md",
-                "mode": "source",
-                "source": true
+                "file": "source/content/Info/Session Flow & Discord Guide.md",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "Session Flow & Discord Guide"
+              "icon": "git-pull-request",
+              "title": "Diff View (Session Flow & Discord Guide)"
             }
           }
         ]
@@ -180,13 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e4f31203ebff98b",
+  "active": "c7d456b921734526",
   "lastOpenFiles": [
+    "Info/Session Flow & Discord Guide.md",
     "Info/Campaign Overview.md",
     "Info/Garrison Duty — Task Reference.md",
     "Info/Guild Mechanics Reference.md",
     "Info/Progression & Milestones.md",
-    "Info/Session Flow & Discord Guide.md",
     "index.md",
     "Info",
     "category-folder/Some note.md",
