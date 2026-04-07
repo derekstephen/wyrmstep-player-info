@@ -116,9 +116,9 @@ If you don't know where to look, this is the order:
 
 | Channel | What It's For |
 |---|---|
-| **#🕯️┃downtime-rp** | In-character roleplay between sessions. Bastion common areas, NPC interactions, character moments. |
-| **#💬┃campaign-general** | Out-of-character campaign chat. Scheduling, questions, general discussion. |
-| **#🍺┃the-tavern** | Voice channel for sessions and casual hangouts. |
+| **\#🕯️┃downtime-rp** | In-character roleplay between sessions. Bastion common areas, NPC interactions, character moments. |
+| **\#💬┃campaign-general** | Out-of-character campaign chat. Scheduling, questions, general discussion. |
+| **\#🍺┃the-tavern** | Voice channel for sessions and casual hangouts. |
 
 ---
 
@@ -128,15 +128,15 @@ If you don't know where to look, this is the order:
 
 | Channel | What It's For |
 |---|---|
-| **#🌀┃session-links** | Session recording links, VTT links, shared screen links. One post per session. |
-| **#🎲┃dice-testing** | Practice Avrae commands here before using them in bastion-activities. |
-| **#⚙️┃bot-commands** | Reference for bot commands. |
+| **\#🌀┃session-links** | Session recording links, VTT links, shared screen links. One post per session. |
+| **\#🎲┃dice-testing** | Practice Avrae commands here before using them in bastion-activities. |
+| **\#⚙️┃bot-commands** | Reference for bot commands. |
 
 ---
 
 ## Using Avrae for Garrison Duty
 
-Avrae handles your Garrison Duty skill checks. Before your first bench session, practice in **#🎲┃dice-testing** so you know the commands.
+Avrae handles your Garrison Duty skill checks. Before your first bench session, practice in **\#🎲┃dice-testing** so you know the commands.
 
 **Basic roll format:**
 ```
@@ -200,4 +200,4 @@ Repeated no-shows without communication affect the whole group's Bastion through
 
 ---
 
-*Questions? Post in #💬┃campaign-general.*
+*Questions? Post in \#💬┃campaign-general.*
