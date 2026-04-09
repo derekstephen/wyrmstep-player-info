@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "The Wyrmstep Chronicles",
-    pageTitleSuffix: "Player Reference Hub",
+    pageTitleSuffix: "- Wyrmstep Chronicles",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
