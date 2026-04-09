@@ -3,7 +3,7 @@ tags:
   - player-facing
   - discord
   - reference
-last_updated: 2026-04-06
+last_updated: 2026-04-09
 ---
 
 # Session Flow & Discord Guide
@@ -170,33 +170,77 @@ Post your task selection and roll together in the session thread in bastion-acti
 ## Session Day — What to Expect
 
 **Before the session:**
-- Silas announces the Sundown time in character at session start
-- The countdown timer is visible on screen throughout the session
-- A physical timer is at the table for in-person play
-- The Extraction Caller is designated before the team goes through the Door
+- Silas announces the Sundown timer window and any last-minute updates in #announcements
+- Active Keys finalize item checkout from the Guild Vault
+- Bench Keys confirm their Garrison Duty posts are in before session start
+- Know who the Extraction Caller is before you go through the Door
 
 **During the session:**
-- You will see Snap-Back glitches starting 30 minutes before Sundown
-- When the Extraction Caller says it's time — it is time. No "just one more room."
+- The Extraction Caller has final authority on when to leave — listen for the call
+- The Sundown timer is hard. When it hits, whatever you're carrying is gone. There are no extensions.
 
 **After the session:**
-- Active players designate the Memory Anchor before dispersing
-- All non-soulbound items return to the Guild Vault
-- Memory Anchor posts the report within 72 hours
+- The Memory Anchor is designated before everyone disperses
+- Active Keys return non-soulbound items via the Extraction Ritual
+- Memory Anchor posts the mission report in #mission-reports within 72 hours
 
 ---
 
-## Scheduling Conflicts
+## Writing the Mission Report
 
-If you can't make a session, **volunteer for Bench as early as possible**. Message in quest-board or DM the DM directly.
+The designated Memory Anchor posts the session's mission report in **#📖┃mission-reports** within 72 hours. Use the template below. Style and length are your call — a clear summary is all that's required.
 
-- Voluntarily benching does not cost you your priority window for next session
-- Garrison Duties are expected regardless of whether you attend live
-- You can complete your tasks asynchronously before session start
-- If you're listening in but on Bench, you may not go through the Door
+```
+- **Status:** [SUCCESS / FAILURE / RETREAT / INCOMPLETE]
+- **Roster:** [List the 5 Active Keys]
+- **Memory Anchor:** [Your Name]
 
-Repeated no-shows without communication affect the whole group's Bastion through Neglect Tokens and coverage gaps. Communicate early.
+### The Chronicle
+Write a summary of what happened. Focus on key decisions,
+turning points, and anything the Bastion should know.
+In-character flavor welcome.
+
+### Tactical Notes
+- **Enemies Encountered:** (e.g., Skeleton Warriors, Glass Beasts)
+- **Casualties / Injuries:** (e.g., two Keys dropped, both stabilized)
+- **Unresolved:** (e.g., the silver door in the west wing — locked)
+
+### The Spoils
+- **Gold Found:** [Total before Tithe]
+- **Items Recovered:** [List items returned to Vault]
+- **Artifacts in Cold Storage:** [Any items sent to Reliquary]
+```
+
+**Formatting tips:**
+- Use `### Header` for sections
+- Use `**Bold**` for enemy names, items, and key decisions
+- Use `> Blockquote` for cinematic flavor or in-character moments
+- Use `- Bullet` for loot and roster lists
+- Ask the DM for session audio if your memory is fuzzy
+
+Post as a reply in the session thread matching your session number. Do not create a new thread.
 
 ---
 
-*Questions? Post in #💬┃campaign-general.*
+## Downtime Roleplay
+
+**#🕯️┃downtime-rp** is where the Bastion lives between sessions — common room conversations, NPC interactions, character moments after a hard mission.
+
+**What belongs there:**
+- In-character conversations between Keys
+- Interactions with Silas, Nafas, or Bastion NPCs
+- Personal character moments between sessions
+- Sharing Planar Research intel in character
+- Reactions to mission outcomes
+
+**How to format posts:**
+
+Write in third person for actions:
+> *Drakai sets down her pack without looking at anyone.*
+
+Write in first person for dialogue:
+> "I need to know what that thing was."
+
+Use (parentheses) sparingly for out-of-character notes.
+
+The DM may respond in character as Silas or Nafas. Cold Storage update posts from Silas appear in both #downtime-rp and #reliquary.
