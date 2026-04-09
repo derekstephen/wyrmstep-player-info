@@ -63,12 +63,12 @@ Sessions are hosted **bi-weekly on Thursdays**.
 
 If you don't know where to look, this is the order:
 
-1. **#📢┃announcements** — Session dates, level ups, major events. Always check here first.
-2. **#📜┃rules-and-charter** — Guild charter, social contract, mechanic summaries. Read once, refer back.
-3. **#💠┃important-information** — Pinned mechanic reference posts. Your rules lookup.
-4. **#⚔️┃quest-board** — Check every Monday after a session to claim your slot.
-5. **#⚒️┃bastion-activities** — If you're Bench, post your tasks here before session.
-6. **#💬┃campaign-general** — Everything else.
+1. **📢┃announcements** — Session dates, level ups, major events. Always check here first.
+2. **📜┃rules-and-charter** — Guild charter, social contract, mechanic summaries. Read once, refer back.
+3. **💠┃important-information** — Pinned mechanic reference posts. Your rules lookup.
+4. **⚔️┃quest-board** — Check every Monday after a session to claim your slot.
+5. **⚒️┃bastion-activities** — If you're Bench, post your tasks here before session.
+6. **💬┃campaign-general** — Everything else.
 
 ---
 
@@ -76,12 +76,12 @@ If you don't know where to look, this is the order:
 
 *Server information and orientation.*
 
-| Channel | What It's For |
-|---|---|
-| **#📢┃announcements** | Session dates, level ups, major campaign events. Read-only. |
-| **#📜┃rules-and-charter** | Guild charter, social contract, mechanic summaries. Read-only. |
-| **#💠┃important-information** | Pinned mechanic reference posts — Sundown Protocol, Iron Ledger, Memory Anchor rules. Read-only. |
-| **#🗺️┃resources** | D&D Beyond character links, external tools, shared notes. Read-only. |
+| Channel                      | What It's For                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ |
+| **📢┃announcements**         | Session dates, level ups, major campaign events. Read-only.                                      |
+| **📜┃rules-and-charter**     | Guild charter, social contract, mechanic summaries. Read-only.                                   |
+| **💠┃important-information** | Pinned mechanic reference posts — Sundown Protocol, Iron Ledger, Memory Anchor rules. Read-only. |
+| **🗺️┃resources**            | D&D Beyond character links, external tools, shared notes. Read-only.                             |
 
 ---
 
@@ -91,9 +91,9 @@ If you don't know where to look, this is the order:
 
 | Channel                    | What It's For                                                                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **#⚔️┃quest-board**        | One thread per session. Silas posts the quest and Active/Bench slots here. Priority window enforced here. Claim your slot.                  |
-| **#📖┃mission-reports**    | One thread per session. Memory Anchor posts the mission report here within 72 hours. Bench players: read these to stay current.             |
-| **#📊┃structural-reports** | Campaign-level updates: Fracture Intensity Meter stage, Bastion upgrades completed, milestone announcements, Player Fracture State tracker. |
+| **⚔️┃quest-board**        | One thread per session. Silas posts the quest and Active/Bench slots here. Priority window enforced here. Claim your slot.                  |
+| **📖┃mission-reports**    | One thread per session. Memory Anchor posts the mission report here within 72 hours. Bench players: read these to stay current.             |
+| **📊┃structural-reports** | Campaign-level updates: Fracture Intensity Meter stage, Bastion upgrades completed, milestone announcements, Player Fracture State tracker. |
 
 ---
 
@@ -101,11 +101,11 @@ If you don't know where to look, this is the order:
 
 *Bastion operations and resource management.*
 
-| Channel                    | What It's For                                                                                                                                     |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **#⚒️┃bastion-activities** | One thread per session. Bench players post task selections and Avrae rolls here. Item checkout also happens here. Results visible before session. |
-| **#🗝️┃guild-vault**       | Live Guild Vault inventory and Communal Wallet balance. Updated after each session.                                                               |
-| **#💎┃reliquary**          | Cold Storage tracking — artifacts in processing, unlock status                                                                                    |
+| Channel                   | What It's For                                                                                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **⚒️┃bastion-activities** | One thread per session. Bench players post task selections and Avrae rolls here. Item checkout also happens here. Results visible before session. |
+| **🗝️┃guild-vault**       | Live Guild Vault inventory and Communal Wallet balance. Updated after each session.                                                               |
+| **💎┃reliquary**          | Cold Storage tracking — artifacts in processing, unlock status                                                                                    |
 
 ---
 
@@ -115,9 +115,9 @@ If you don't know where to look, this is the order:
 
 | Channel                  | What It's For                                                                                      |
 | ------------------------ | -------------------------------------------------------------------------------------------------- |
-| **#🕯️┃downtime-rp**     | In-character roleplay between sessions. Bastion common areas, NPC interactions, character moments. |
-| **#💬┃campaign-general** | Out-of-character campaign chat. Scheduling, questions, general discussion.                         |
-| **#🍺┃the-tavern**       | Voice channel for sessions and casual hangouts.                                                    |
+| **🕯️┃downtime-rp**     | In-character roleplay between sessions. Bastion common areas, NPC interactions, character moments. |
+| **💬┃campaign-general** | Out-of-character campaign chat. Scheduling, questions, general discussion.                         |
+| **🍺┃the-tavern**       | Voice channel for sessions and casual hangouts.                                                    |
 
 ---
 
@@ -127,15 +127,15 @@ If you don't know where to look, this is the order:
 
 | Channel               | What It's For                                                                  |
 | --------------------- | ------------------------------------------------------------------------------ |
-| **#🌀┃session-links** | Session recording links, VTT links, shared screen links. One post per session. |
-| **#🎲┃dice-testing**  | Practice Avrae commands here before using them in bastion-activities.          |
-| **#⚙️┃bot-commands**  | Reference for bot commands.                                                    |
+| **🌀┃session-links** | Session recording links, VTT links, shared screen links. One post per session. |
+| **🎲┃dice-testing**  | Practice Avrae commands here before using them in bastion-activities.          |
+| **⚙️┃bot-commands**  | Reference for bot commands.                                                    |
 
 ---
 
 ## Using Avrae for Garrison Duty
 
-Avrae handles your Garrison Duty skill checks. Before your first bench session, practice in **#🎲┃dice-testing** so you know the commands.
+Avrae handles your Garrison Duty skill checks. Before your first bench session, practice in **🎲┃dice-testing** so you know the commands.
 
 **Basic roll format:**
 ```
@@ -170,8 +170,8 @@ Post your task selection and roll together in the session thread in bastion-acti
 ## Session Day — What to Expect
 
 **Before the session:**
-- Silas announces the Sundown timer window and any last-minute updates in #announcements
-- Active Keys finalize item checkout from the Guild Vault
+- Silas announces the Sundown timer window and any last-minute updates in **📢┃announcements**
+- Active Keys finalize item checkout from the **🗝️┃guild-vault**
 - Bench Keys confirm their Garrison Duty posts are in before session start
 - Know who the Extraction Caller is before you go through the Door
 
@@ -182,13 +182,13 @@ Post your task selection and roll together in the session thread in bastion-acti
 **After the session:**
 - The Memory Anchor is designated before everyone disperses
 - Active Keys return non-soulbound items via the Extraction Ritual
-- Memory Anchor posts the mission report in #mission-reports within 72 hours
+- Memory Anchor posts the mission report in mission-reports within 72 hours
 
 ---
 
 ## Writing the Mission Report
 
-The designated Memory Anchor posts the session's mission report in **#📖┃mission-reports** within 72 hours. Use the template below. Style and length are your call — a clear summary is all that's required.
+The designated Memory Anchor posts the session's mission report in **📖┃mission-reports** within 72 hours. Use the template below. Style and length are your call — a clear summary is all that's required.
 
 ```
 - **Status:** [SUCCESS / FAILURE / RETREAT / INCOMPLETE]
@@ -224,7 +224,7 @@ Post as a reply in the session thread matching your session number. Do not creat
 
 ## Downtime Roleplay
 
-**#🕯️┃downtime-rp** is where the Bastion lives between sessions — common room conversations, NPC interactions, character moments after a hard mission.
+**🕯️┃downtime-rp** is where the Bastion lives between sessions — common room conversations, NPC interactions, character moments after a hard mission.
 
 **What belongs there:**
 - In-character conversations between Keys
@@ -243,4 +243,4 @@ Write in first person for dialogue:
 
 Use (parentheses) sparingly for out-of-character notes.
 
-The DM may respond in character as Silas or Nafas. Cold Storage update posts from Silas appear in both #downtime-rp and #reliquary.
+The DM may respond in character as Silas or Nafas. Cold Storage update posts from Silas appear in both downtime-rp and reliquary.

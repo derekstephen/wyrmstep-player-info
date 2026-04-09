@@ -88,7 +88,7 @@ Ask Silas which Doors carry the materials required for a project you have in min
 
 A few things to consider when thinking about Bastion investment:
 
-The **Guild Vault overflow rule** applies here — gold above the Iron Coffer cap automatically converts to Construction Points. If your Vault is frequently capped, you are already passively generating build resources. Track the Wallet closely in **#📊┃structural-reports**.
+The **Guild Vault overflow rule** applies here — gold above the Iron Coffer cap automatically converts to Construction Points. If your Vault is frequently capped, you are already passively generating build resources. Track the Wallet closely in **📊┃structural-reports**.
 
 Garrison Duty Task 05 (Garrison Recruitment) directly supports construction projects through successful rolls. Bench players who prioritize this task contribute to the build queue even without direct gold investment.
 
@@ -96,4 +96,4 @@ Upgrades are permanent. They do not degrade, do not require maintenance, and do 
 
 ---
 
-*Current Bastion construction status and the Guild Wallet balance are tracked in **#📊┃structural-reports**. Updated after each session.*
+*Current Bastion construction status and the Guild Wallet balance are tracked in **📊┃structural-reports**. Updated after each session.*

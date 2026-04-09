@@ -56,4 +56,4 @@ Once an artifact clears Cold Storage and enters the Guild Vault, it is subject t
 
 ---
 
-*Current Cold Storage status is tracked in **#💎┃reliquary**. Check there before asking Silas in session.*
+*Current Cold Storage status is tracked in **💎┃reliquary**. Check there before asking Silas in session.*
