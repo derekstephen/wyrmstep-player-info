@@ -13,7 +13,7 @@ last_updated: 2026-04-06
 
 **No XP. No individual tracking. The guild levels together.**
 
-Characters level up when the guild achieves defined mission milestones. All 10 players advance simultaneously — Active and Bench alike. Miss a session and you still level up with everyone else when the milestone is reached.
+Characters level up when the guild achieves defined mission milestones. All players advance simultaneously — Active and Bench alike. Miss a session and you still level up with everyone else when the milestone is reached.
 
 Combat, roleplay, and Garrison contributions all count equally toward the guild's progression. The milestone triggers when the guild achieves something meaningful as a whole, not when enough monsters have been killed.
 

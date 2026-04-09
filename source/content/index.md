@@ -2,12 +2,12 @@
 tags:
   - player-facing
   - index
-last_updated: 2026-04-06
+last_updated: 2026-04-09
 ---
 
 # The Wyrmstep Chronicles — Player Reference Hub
 
-Welcome to the player-facing folder for **The Wyrmstep Chronicles**. Everything here is information you are meant to have. If it is not in this folder, it is either DM-only material or still being built.
+Welcome to the player-facing folder for **The Wyrmstep Chronicles**.
 
 ---
 
@@ -28,6 +28,10 @@ Welcome to the player-facing folder for **The Wyrmstep Chronicles**. Everything 
 ### 📈 Leveling Up
 - **[[Progression & Milestones]]** — How the guild levels, what milestones trigger each advancement, Guild Rank and what it unlocks, and how Resonance Locks work.
 
+### 🏛️ The Bastion
+- **[[Reliquary & Cold Storage]]** — How artifact processing works, how to speed it up, and what Fading NPCs mean.
+- **[[Bastion Upgrade Tree]]** — Every Tier 1 upgrade with costs and effects. How to propose a build and what unlocks at higher ranks.
+
 ---
 
 ## Quick Rules Reference
@@ -43,17 +47,17 @@ Welcome to the player-facing folder for **The Wyrmstep Chronicles**. Everything 
 | Fractured State      | Death or Snap-Back = Fractured. Three tiers. Treat it early.                              |
 | Memory Anchor        | One active Key writes the mission report within 72 hours. Rotate the role.                |
 | Leveling             | Guild milestones only. Active and Bench advance together. No XP.                          |
+| Reliquary            | Artifacts enter Cold Storage. One rotation to process unless bench players accelerate.    |
+| Bastion Upgrades     | Fund via Guild Wallet. Two sessions to complete. Tier 1 available now.                    |
 
 ---
 
 ## The Guild
 
-**Name:** The Wyrmstep
-**Home Base:** The Bastion
-**Called By:** Silas and Nafas
-**Called:** Keys
-**Active Slots Per Session:** 5
-**Total Roster:** 9 (at campaign start)
+- **Name:** The Wyrmstep
+- **Home Base:** The Bastion
+- **Called By:** Silas and Nafas
+- **Active Slots Per Session:** 5
 
 ---
 

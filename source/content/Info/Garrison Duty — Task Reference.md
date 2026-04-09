@@ -2,7 +2,7 @@
 tags:
   - player-facing
   - garrison
-last_updated: 2026-04-06
+last_updated: 2026-04-09
 ---
 
 # Garrison Duty — Task Reference
@@ -25,7 +25,7 @@ Each task uses one of two associated skills — pick whichever fits your charact
 
 ## Available Tasks — Initiate Rank
 
-*These six tasks are available from campaign start.*
+*These eight tasks are available from campaign start.*
 
 ---
 
@@ -39,7 +39,7 @@ Tend to the Bastion's structure and upkeep. A strong effort adds gold to the Gui
 ### Task 02 — The Forge & Lab
 **Focus:** Crafting | **Skills:** Arcana / Investigation
 
-Work the Bastion's forge and laboratory to produce Potions and Scrolls for the active team. Output varies by roll quality. *A maximum of 3 crafted items may be produced per rotation across all bench players combined.*
+Work the Bastion's forge and laboratory to produce Potions and Scrolls for the active team. Output varies by roll quality. *A maximum of 4 crafted items may be produced per rotation across all bench players combined.*
 
 ---
 
@@ -68,6 +68,20 @@ Work to recruit and organize garrison support. Successful efforts contribute to 
 **Focus:** Logistics | **Skills:** Survival / Investigation
 
 Chart routes and provide navigation support for the active team's travel. Strong results reduce travel fatigue for the active team. Poor results may create additional burden.
+
+---
+
+### Task 07 — Curio Extraction
+**Focus:** Utility | **Skills:** Arcana / Sleight of Hand
+
+Work to safely extract and contain Fracture Curios brought back from the Doors. A strong result stabilizes a volatile item for use. A poor result may trigger a Bastion mishap.
+
+---
+
+### Task 08 — Defensive Fortification
+**Focus:** Defense | **Skills:** Athletics / Perception
+
+Reinforce and improve the Bastion's defensive structures. Successful efforts contribute to Construction Points toward Defensive Walls. Poor efforts may damage existing fortifications.
 
 ---
 

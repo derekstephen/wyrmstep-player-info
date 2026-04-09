@@ -13,9 +13,7 @@ last_updated: 2026-04-06
 
 You were not volunteers. You were chosen.
 
-The Infinite Staircase — a vast planar structure that connects countless worlds and realities — is fraying. Something is wrong with it at a fundamental level, and if it continues, the worlds it connects will begin to dissolve. You have been called by forces greater than yourselves because something in you — something the Staircase recognizes — makes you capable of helping stabilize what is breaking. You are called **Keys**.
-
-*"Because every Door needs one."*
+The Infinite Staircase — a vast planar structure that connects countless worlds and realities — is fraying. Something is wrong with it at a fundamental level, and if it continues, the worlds it connects will begin to dissolve. You have been called by forces greater than yourselves because something in you — something the Staircase recognizes — makes you capable of helping stabilize what is breaking.
 
 You operate as a guild. Together you are **The Wyrmstep**.
 
@@ -37,7 +35,7 @@ The Wyrmstep run on a rotation system. Every session, five Keys go **Active** �
 
 **If you are Active:** You are in the field. You have a hard end time. Get out before it hits.
 
-**If you are Bench:** You are mission control. Your Garrison Duty rolls determine what the active team has when they go through the Door — their buffs, their intel, their potions, their warning about the trap on the second floor. Do your tasks.
+**If you are Bench:** You are mission control. Your Garrison Duty determine what the active team has when they go through the Door — their buffs, their intel, their potions, their warning about the trap on the second floor. Do your tasks.
 
 ---
 
@@ -45,7 +43,7 @@ The Wyrmstep run on a rotation system. Every session, five Keys go **Active** �
 
 **Nafas** is the reason you are here. A being of immense scope and power, Nafas moves through concerns far larger than any single world or mission — the kind of problems that span realities rather than rooms. What he has set in motion with the Wyrmstep is important enough to have drawn his attention, which says something. He does not manage the day-to-day. That is what Silas is for.
 
-**Silas** runs the Bastion. They handle the operational side of everything — the Iron Ledger, the Guild Vault, the Extraction Ritual, the session countdowns, the paperwork of keeping a guild of planar operatives alive and functional. They are precise, dry, and deeply invested in the guild's survival even when they don't say so. They call you Keys. They take 10% of your gold because the Bastion doesn't run on goodwill. They will retrieve items you forget to return. They have their methods. They've been doing this longer than you know.
+**Silas** runs the Bastion. They handle the operational side of everything — the Iron Ledger, the Guild Vault, the Extraction Ritual, the session countdowns, the paperwork of keeping a guild of planar operatives alive and functional. They are precise, dry, and deeply invested in the guild's survival even when they don't say so. They call you Keys, because every door needs one. They take 10% of your gold because the Bastion doesn't run on goodwill. They will retrieve items you forget to return. They have their methods. They've been doing this longer than you have existed.
 
 ---
 

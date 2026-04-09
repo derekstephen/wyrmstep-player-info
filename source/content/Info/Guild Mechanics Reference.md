@@ -21,12 +21,12 @@ Every session you are either **Active** (going through the Door) or **Bench** (r
 
 Silas posts each session on the quest-board the Monday after the previous session.
 
-| Timing | What Happens |
-|---|---|
-| Monday | Quest-board post goes live |
-| Monday → Tuesday (24hrs) | **Priority Window** — players benched last session claim Active slots first |
-| Tuesday onward | All remaining slots open to everyone |
-| Session Thursday | Roster locks |
+| Timing                    | What Happens                                                                |
+| ------------------------- | --------------------------------------------------------------------------- |
+| Monday                    | Quest-board post goes live                                                  |
+| Monday → Tuesday (24 hrs) | **Priority Window** — players benched last session claim Active slots first |
+| Tuesday onward            | All remaining slots open to everyone                                        |
+| Session Thursday          | Roster locks                                                                |
 
 **Priority Window:** If you were benched last session, you have 24 hours to claim an Active slot before it opens to the general pool. This ensures no one is involuntarily benched two sessions in a row.
 
@@ -36,7 +36,7 @@ Can't make a session? **Volunteer for Bench early.** Complete your Garrison Duti
 
 ### If You're on Bench
 
-You are not sitting out — you are running mission control. Your Garrison Duty rolls go before session start. The active team feels the difference.
+You are not sitting out — you are running mission control. Your Garrison Duty go async before session start. The active team feels the difference.
 
 ### Extraction Caller
 
@@ -81,7 +81,7 @@ Missing your Garrison Duties carries consequences — personal gold penalties, B
 
 **Every session has a hard end time. When it hits, you come home whether you're ready or not.**
 
-Silas announces the Sundown time at the start of every session — typically between 9 PM and 10 PM. A shared countdown is visible on screen throughout the session.
+Silas announces the Sundown time at the start of every session — typically around 9 PM. A shared countdown is visible on screen throughout the session.
 
 ### Warning Signs
 
@@ -128,7 +128,7 @@ Everything else defaults to guild property.
 
 ### Item Checkout
 
-Before each session, active players check out items from the Guild Vault in **bastion-activities** before session start. Items are your responsibility for that session. Return them after.
+Before each session, active players check out items from the Guild Vault before session start. Items are your responsibility for that session. Return them after.
 
 ### Forgetting to Return Items
 
