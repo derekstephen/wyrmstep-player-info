@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "94dbabd93e13e9b5",
+        "id": "cf964a2d97c71978",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d456b921734526",
+            "id": "947e82fbf79f34d7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "source/content/Info/Session Flow & Discord Guide.md",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Session Flow & Discord Guide)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7d456b921734526",
+  "active": "947e82fbf79f34d7",
   "lastOpenFiles": [
     "Info/Session Flow & Discord Guide.md",
     "Info/Campaign Overview.md",
